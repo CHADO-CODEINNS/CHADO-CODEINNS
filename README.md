@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CHADO-CODEINNS
 - 👀 I’m interested in Software Development  
 - 🌱 I’m currently learning Python and JavaScript 
-- 💞️ I’m looking to collaborate on projects
+- 💞️ I’m looking forward to collaborate on projects
 - 📫 Reach me at emijere.richard@gmail.com
 
 <!---
